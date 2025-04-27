@@ -18,7 +18,4 @@ targetImage.addEventListener('click', () => {
         targetImage.style.opacity = '1';
 
     }, 300);
-
-//shift + alt + F
-
-});
+})
